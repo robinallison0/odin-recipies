@@ -1,0 +1,1 @@
+This is a project to create a simple html web page about some recipies.
